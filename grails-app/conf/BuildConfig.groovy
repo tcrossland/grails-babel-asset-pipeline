@@ -28,6 +28,7 @@ grails.project.dependency.resolution = {
         grailsCentral()
         mavenLocal()
         mavenCentral()
+        mavenRepo "https://projects.bluetab.net/artifactory/repo"
         mavenRepo "http://dl.bintray.com/errbuddy/plugins"
     }
     dependencies {

@@ -32,3 +32,8 @@
 
 # "temporary" build files
 /target
+
+.classpath
+.project
+*.iml
+.idea/
