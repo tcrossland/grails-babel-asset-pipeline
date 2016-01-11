@@ -32,7 +32,7 @@ grails.project.dependency.resolution = {
         mavenRepo "http://dl.bintray.com/errbuddy/plugins"
     }
     dependencies {
-        compile 'net.errbuddy.plugins:babel-asset-pipeline:1.4.3'
+        compile 'net.errbuddy.plugins:babel-asset-pipeline:1.4.4-SNAPSHOT'
     }
 
     plugins {
